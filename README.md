@@ -20,10 +20,15 @@ I develop **web apps**, **educational tools**, and **games** — driven by creat
 
 ## 🧰 Tech Stack
 
-**Frontend:** React, Vite, Tailwind CSS, JavaScript, HTML/CSS  
-**Backend/Infra:** Firebase (Auth, Firestore, Hosting), Node.js basics  
-**Game Dev:** Unity (C#), WebGL builds  
-**Tools:** Git, GitHub, Netlify, Figma, Trello, Framer Motion, jsPDF
+### 🔧 Daily Stack  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite&logoColor=646CFF)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0f172a?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
 
 ---
 
