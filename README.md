@@ -1,26 +1,26 @@
 #  Hi, I'm Yonatan
 
-🎯 **Frontend & Game Developer | React, Firebase, Unity**  
-📍 Based in Israel | 💼 Open to freelance & product roles  
-🌍 Portfolio: [yonatan-personal.netlify.app](https://yonatan-personal.netlify.app)
+ **Frontend & Game Developer | React, Firebase, Unity**  
+ Based in Israel | 💼 Open to freelance & product roles  
+ Portfolio: [yonatan-personal.netlify.app](https://yonatan-personal.netlify.app)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I develop **web apps**, **educational tools**, and **games** — driven by creativity, curiosity, and clean UI/UX.
 
-- 🧠 Building [Audio Dojo](https://github.com/ygolan93/audio-dojo) – a React+Firebase app for critical listening training  
-- 🎮 Rebuilding *Beavermania* – a Unity-based 3D game (WebGL)  
-- 🛠️ Experienced with React, Vite, Tailwind, Firebase, jsPDF, Unity, and more  
-- 🎓 Teaching assistant for Unity at the Open University’s Hasifa School  
-- 🎸 Guitar player, mentor, and always exploring new tech
+-  Building [Audio Dojo](https://github.com/ygolan93/audio-dojo) – a React+Firebase app for critical listening training  
+-  Rebuilding *Beavermania* – a Unity-based 3D game (WebGL)  
+-  Experienced with React, Vite, Tailwind, Firebase, jsPDF, Unity, and more  
+-  Teaching assistant for Unity at the Open University’s Hasifa School  
+-  Guitar player, mentor, and always exploring new tech
 
 ---
 
-## 🧰 Tech Stack
+## 
 
-### 🔧 Daily Stack  
+### Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 ![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
@@ -32,7 +32,7 @@ I develop **web apps**, **educational tools**, and **games** — driven by creat
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 ### 🔊 [Audio Dojo](https://github.com/ygolan93/audio-dojo)  
 A responsive, single-page quiz app for learning audio processing (EQ, compression, etc.)  
