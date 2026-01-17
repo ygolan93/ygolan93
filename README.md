@@ -59,14 +59,15 @@ Includes object pooling, status effect systems, and performance profiling.
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwindcss)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/topics/javascript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)](https://github.com/facebook/react)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwindcss)](https://github.com/tailwindlabs/tailwindcss)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)](https://github.com/firebase/firebase-js-sdk)
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)](https://unity.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)](https://github.com/mongodb)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)](https://github.com/nodejs)
+
 
 ---
 
