@@ -72,13 +72,6 @@ A modern task manager demonstrating clean component structure and UI consistency
 - Styled with Tailwind  
 - Deployed on Netlify  
 
----
-
-## 📈 GitHub Activity
-
-![Yonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygolan93&show_icons=true&theme=radical)
-
----
 
 ## 📫 Contact
 
